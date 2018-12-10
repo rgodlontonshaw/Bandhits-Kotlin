@@ -1,0 +1,8 @@
+
+<resources>
+    <string name="app_name">Bandhits</string>
+    <string name="action_settings">Settings</string>
+    <string name="albums_fragment_title">Albums</string>
+    <string name="bio_fragment_title">Bio</string>
+    <string name="last_fm_api_key">1dbc466a338a16acaea5b99aed1396ff</string>
+</resources>

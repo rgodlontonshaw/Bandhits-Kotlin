@@ -1,0 +1,4 @@
+
+<resources>
+    <dimen name="recycler_spacing">64dp</dimen>
+</resources>

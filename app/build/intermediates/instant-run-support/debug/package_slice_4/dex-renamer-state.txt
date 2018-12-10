@@ -1,0 +1,4 @@
+#Mon Dec 10 18:14:16 SAST 2018
+base.0=/Users/ryangodlonton-shaw/Documents/Projects/Bandhits-Kotlin/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
